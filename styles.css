@@ -1,0 +1,34 @@
+body{
+    background-color: dimgray;
+    padding:20px;
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div{
+    background-color: lightsteelblue;
+    padding:10px;
+}
+h1{
+    color:black;
+    padding:25;
+}
+ul{
+    background-color: darkslategrey;
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+li{
+    float:left;
+}
+li a{
+    display:block;
+    padding:20px;
+    color:white;
+    text-decoration: none;
+}
+li a:hover{
+    background-color:darkblue;
+}
